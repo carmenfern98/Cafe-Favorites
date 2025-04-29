@@ -4,7 +4,9 @@ A stylish React app where users can explore cafe cards, add favorites with a cli
 
 スタイリッシュなReactアプリです。カフェのカードをクリックして、お気に入りリストに追加・消除することができます。
 
-![Image of Cafe Favorites Site](./assets/sample.png)
+![Image of Cafe Favorites Site](https://carmenfern98.github.io/Cafe-Favorites/assets/sample.png)
+
+https://carmenfern98.github.io/Cafe-Favorites/
 
 
 ## Tech Used　｜使用技術
