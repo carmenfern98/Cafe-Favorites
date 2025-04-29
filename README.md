@@ -1,10 +1,12 @@
+<img width="1438" alt="sample" src="https://github.com/user-attachments/assets/6dc77b83-9b5a-459e-8597-18c409e57f0e" />
 # Cafe Favorites Page | カフェお気に入りページ
 
 A stylish React app where users can explore cafe cards, add favorites with a click, and manage their personalized cafe list. 
 
 スタイリッシュなReactアプリです。カフェのカードをクリックして、お気に入りリストに追加・消除することができます。
 
-![Image of Cafe Favorites Site](https://carmenfern98.github.io/Cafe-Favorites/assets/sample.png)
+![Image of Cafe Favorites Site]! [Uploading sample.png…]()
+
 
 https://carmenfern98.github.io/Cafe-Favorites/
 
